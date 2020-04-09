@@ -1,2 +1,2 @@
-# bc2407
+# BC2407
 San Francisco Crime Classification and Association Rules
